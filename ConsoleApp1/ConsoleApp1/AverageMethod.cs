@@ -12,9 +12,9 @@ public class AverageMethod
             }
 
             double sum = 0;
-            foreach (int number in numbers)
+            foreach (int numberr in numbers)
             {
-                sum += number;
+                sum += numberr;
             }
 
             return sum / numbers.Length;
